@@ -1,0 +1,16 @@
+segment_sources:
+  IA109F454:
+    type: origin_type
+    relation: translation
+    language: en
+  I188F564F:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  181bf756a6d84910960fb5fad08175d1:
+    IA109F454: cb0ba855c9124f51b978e23d65955d6d
+    I188F564F: 834814afa124445583350ccc50c40ec7
+  671ef77e83a144a09d65765c837e8f8f:
+    IA109F454: 059dfb7544164148ab2cccd85a83edaa
+    I188F564F: ae4e6cd563cd4fd4ba299adf6bc9319f

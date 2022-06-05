@@ -1,0 +1,28 @@
+segment_sources:
+  IA109F454:
+    type: origin_type
+    relation: translation
+    language: en
+  I188F564F:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  a8e3e37388b3489e87675595565eae00:
+    IA109F454: 610dcb4a518a4cd2a895d362b4ec17b5
+    I188F564F: 5f2bb8a787434b9b9813f04c46dea16b
+  f60731469b0746b1aa7f5fec73919025:
+    IA109F454: eef83ff2ea914a7ba703b7068886d03a
+    I188F564F: 02b31eca74f0443c87675db71af21bdf
+  79983f88aebc4740a1f2045e2c27a640:
+    IA109F454: 1f0e9713d6e64e94babc415b2ba1b0da
+    I188F564F: d68ed751ebef4fe79aa528a9dce80982
+  fbf63b8af2da4bbbb9eaf2633e1d416a:
+    IA109F454: 3e604598dff34c249bc37575427c3247
+    I188F564F: 5e87d785403449c889a0dc84a036ddcf
+  ffda7429472b4bc7bdc68514bfebc61d:
+    IA109F454: 9d116281490143bfaee9fb48b4211168
+    I188F564F: a5d2e83ee36f4e2c80518fb89a3f91e7
+  cf0804b655d74998b16bbad87bbe1a63:
+    IA109F454: 57e5e936f3044b81b02b6253681a608f
+    I188F564F: d1278dce685c4bf58b4862a09228a341
